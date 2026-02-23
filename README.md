@@ -48,23 +48,4 @@
 
 
 
----
 
-## 🔥 Featured Projects
-
-⭐ E-commerce Sales Analysis – Power BI Dashboard  
-⭐ SQL Business Case Study  
-⭐ Python Data Cleaning & EDA Project  
-
----
-
-## 🎯 2026 Goals
-
-✔ Land a Data Analyst job  
-✔ Master SQL & Advanced Pandas  
-✔ Build End-to-End Data Projects  
-✔ Transition into Data Engineering  
-
----
-
-⭐ From [Sunil Kumar](https://github.com/YOUR_USERNAME)
